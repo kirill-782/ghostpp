@@ -458,7 +458,7 @@ void CGamePlayer :: ProcessPackets( )
 				break;
 
 			case CGameProtocol :: W3GS_DROPREQ:
-				// todotodo: no idea what's in this packet
+				// todotodo: no idea what's in this packet TROLL_FACE
 
 				if( !m_DropVote )
 				{
